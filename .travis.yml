@@ -24,7 +24,7 @@ matrix:
     - rvm: jruby-head
 addons:
   code_climate:
-    repo_token: ca1e0dd68aa67b81b8dd30e6402f75a583139cf181d839d8cdc87d38affcaaf8
+    repo_token: ca1e0dd68aa67b81b8dd30e6402f75a583139cf181d839d8cdc87d38affcaaf7
 notifications:
   email: false
   # webhooks:
